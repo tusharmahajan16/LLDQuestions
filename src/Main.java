@@ -44,7 +44,7 @@ public class Main {
                 }
             }
         }
-        //System.out.println(andreaPoints+" "+mariaPoints);
+        //UserSystem.out.println(andreaPoints+" "+mariaPoints);
         if (andreaPoints > mariaPoints) {
             return "Andrea";
         }
