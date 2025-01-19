@@ -1,10 +1,12 @@
-This Repo Contains all the Machine Coding questions i have solved. I will update this repo frequently.
-Current Covered Questions-
--in_memory_sql
--parkingLotDesign
--swiggy_zomato_design
--tictactoe
--uber_ola_design
--last month
--vendingmachine
--zerodha_buyandsell
+# Machine Coding Questions Repo
+
+This repository contains all the machine coding questions I have solved. I will update this repo frequently.
+
+## Currently Covered Questions:
+- In-Memory SQL
+- Parking Lot Design
+- Swiggy-Zomato Design
+- Tic-Tac-Toe
+- Uber-Ola Design
+- Vending Machine
+- Zerodha Buy and Sell
