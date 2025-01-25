@@ -1,4 +1,4 @@
-# Machine Coding Questions Repo
+# Machine Coding Questions Repositoey
 
 This repository contains all the machine coding questions I have solved. I will update this repo frequently.
 
