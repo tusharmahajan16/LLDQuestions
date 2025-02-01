@@ -1,0 +1,9 @@
+To enhance the user experience on your new tech blog, you want to create an in-memory search engine.
+
+The search engine should support the creation of categories - representing collections of blog articles, and allow documents (articles) to be inserted into specific categories.
+
+Users should be able to search through articles in a given category based on search patterns, such as a sequence of words, with the potential to support more complex patterns in the future (e.g., unordered keyword matches, ordered sequences, or exact substring matches).
+
+The search results should initially be ordered by the most recently published articles, with flexibility to support additional criteria like most recently updated, most searched articles, or author-name based ordering.
+
+Non-functional requirements include optimising for fast query processing, particularly aiming for constant time (O(1)) for unordered search operations.
