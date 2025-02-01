@@ -1,4 +1,4 @@
-# Machine Coding Questions Repositoey
+# Machine Coding Questions Repo
 
 This repository contains all the machine coding questions I have solved. I will update this repo frequently.
 
@@ -11,3 +11,4 @@ This repository contains all the machine coding questions I have solved. I will 
 - Vending Machine
 - Zerodha Buy and Sell
 - Notification System Big Billion Day Sale
+- Dictionary System

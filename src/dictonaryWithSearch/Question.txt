@@ -1,0 +1,1 @@
+Design a dictionary kind of system where you are able to add words in different datasets and then you should be able to search that word in most optimal way.
