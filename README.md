@@ -7,6 +7,7 @@ This repository contains all the machine coding questions I have solved. I will 
 - Notification System Big Billion Day Sale
 - Dictionary System
 - Search Engine
+- Microsoft Excel
 
 ## Currently Covered Questions:
 - In-Memory SQL
@@ -19,3 +20,4 @@ This repository contains all the machine coding questions I have solved. I will 
 - Notification System Big Billion Day Sale
 - Dictionary System
 - Search Engine
+- Microsoft Excel
