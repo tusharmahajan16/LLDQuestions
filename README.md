@@ -8,6 +8,7 @@ This repository contains all the machine coding questions I have solved. I will 
 - Dictionary System
 - Search Engine
 - Microsoft Excel
+- HashMap Implementation Java
 
 ## Currently Covered Questions:
 - In-Memory SQL
@@ -21,3 +22,4 @@ This repository contains all the machine coding questions I have solved. I will 
 - Dictionary System
 - Search Engine
 - Microsoft Excel
+- HashMap Implementation Java
