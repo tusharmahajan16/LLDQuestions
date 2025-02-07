@@ -9,6 +9,7 @@ This repository contains all the machine coding questions I have solved. I will 
 - Search Engine
 - Microsoft Excel
 - HashMap Implementation Java
+- Version control like Git
 
 ## Currently Covered Questions:
 - In-Memory SQL
@@ -23,3 +24,4 @@ This repository contains all the machine coding questions I have solved. I will 
 - Search Engine
 - Microsoft Excel
 - HashMap Implementation Java
+- Version control like Git

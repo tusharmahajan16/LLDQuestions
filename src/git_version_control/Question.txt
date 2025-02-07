@@ -1,0 +1,7 @@
+The task was to implement a version control system similar to Git. The system needed to support:
+
+
+Adding files for commits
+Committing files
+Creating different branches
+Rolling back to previous commits
